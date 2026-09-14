@@ -1,1 +1,7 @@
-{"name":"cdnjs","author":"itsAsanali","language":"javascript","license":"none","encoding":"UTF-8"}
+{
+    "name": "cdnjs",
+    "author": "asanaIi",
+    "language": "javascript",
+    "license": "none",
+    "encoding": "UTF-8"
+}
